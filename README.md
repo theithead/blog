@@ -1,0 +1,2 @@
+# blog
+my tech blog
